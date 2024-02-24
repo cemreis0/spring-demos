@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d48603fe-89f4-44e6-88d3-b1dd4b838786" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../authenticating-ldap/src/main/java/com/demos/authenticatingldap/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../authenticating-ldap/src/main/resources/templates/test-server.ldif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authenticating-ldap/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../authenticating-ldap/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authenticating-ldap/src/main/java/com/demos/authenticatingldap/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../authenticating-ldap/src/main/java/com/demos/authenticatingldap/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authenticating-ldap/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../authenticating-ldap/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2coQ0phdQZ2bsFLTBJJSTweV03B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/cemmr/Code/spring-demos/payroll",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d48603fe-89f4-44e6-88d3-b1dd4b838786" name="Changes" comment="" />
+      <created>1708775237341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708775237341</updated>
+    </task>
+    <servers />
+  </component>
+</project>
